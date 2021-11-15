@@ -69,7 +69,7 @@ One of the main advantages of notebooks is that as you develop new scripts you c
 To get started from the project's landing page, hover over to the far right and Click on "New Session".
 
 
-![alt text](img/create_session.png)
+![alt text](/img/create_session.png)
 
 
 Enter a Session name and then set Runtime settings. 

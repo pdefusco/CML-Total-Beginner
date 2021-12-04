@@ -20,10 +20,6 @@ Tips for loading and saving data with Spark in S3, ADLS and more
 
 A Spark SQL quickstart for the PySpark beginner
 
-#### 4. A sample R Shiny application 
-
-A basic dashboard with the Applications feature
-
 
 ### Getting Started... How to Clone this Repository into a CML Project
 

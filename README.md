@@ -70,9 +70,18 @@ To get started from the project's landing page, hover over to the far right and 
 
 Enter a Session name and then set Runtime settings. 
 
+```
+Editor: JupyterLab
+Kernel: Python 3.7
+Edition: Standard
+Version: anything will work
+Enable Spark: required if you plan to run notebooks 4, 5, and 6
+Resource Profile: a minimum of 1 vCPU / 2 GiB Memory with 0 GPUs is recommended
+```
+
 This is a Python project so we will choose the Jupyter Notebook Editor. Keep in mind if you want to execute a .py file, the Workbench editor is a better choice. 
 
-The Kernel represents the programming language and version you want to use. In this case it will be Python. Anything above 3.6 will do. 
+The Kernel represents the programming language and version you want to use. Please pick Python 3.7. 
 
 The Edition and Version fields refer to the actual CML Runtime. Runtimes allow you to prepackage certain dependencies for reusability in Sessions, Jobs, Models, etc.
 
